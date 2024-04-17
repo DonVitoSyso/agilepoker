@@ -1,0 +1,45 @@
+.simple-fast {
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1366px;
+    height: auto;
+    position: relative;
+  }
+
+.name-preview {
+    height: 464px;
+    width: 630px;
+    margin-left: 368px;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1.text-h1-lg {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    font-size: 80px;
+    font-family: "Geist Bold";
+    line-height: initial;
+}
+
+.div-btn {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 35px;
+    right: 0;
+    left: 0;
+    text-align: center;
+}
+
+.hand1 {
+    position: absolute;
+    left: 0px;
+    top: -168px;
+}
+
+.hand2 {
+    position: absolute;
+    right: 0px;
+    top: -168px;
+}

@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Geist";
+  src: url(../files/fonts/Geist-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Geist Bold";
+  src: url(../files/fonts/Geist-Bold.ttf);
+}
+
+.text-geist {
+  font-family: "Geist";
+  -webkit-text-fill-color: #131241;
+  font-size: 25px;
+}
+
+body {
+  background-image: linear-gradient(180deg, #fcfcfbff 92%, #ddf5feff 97%, #e1dbf9ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}

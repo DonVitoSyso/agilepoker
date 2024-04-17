@@ -1,0 +1,25 @@
+.div1 {
+    width: 100%;
+    height: 60px;
+    background-color: bisque;
+}
+.div2 {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(197, 76, 24);
+}
+.div3 {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(60, 41, 204);
+}
+.div4 {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(195, 234, 22);
+}
+.div5 {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(71, 150, 158);
+}

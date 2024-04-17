@@ -1,0 +1,123 @@
+.about {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1366px;
+    height: 1767px;
+    position: relative;
+}
+
+.about-h2 {
+    font-size: 80px;
+    text-align: center;
+    font-family: "Geist Bold";
+    -webkit-text-fill-color: #131241;
+}
+
+.step {
+    display: grid;
+    grid-template-rows: repeat(8, auto);
+}
+
+.li-step {
+    font-size: 80px;
+    font-family: "Geist Bold";
+    -webkit-text-fill-color: hsla(251, 48%, 59%, 1);
+    margin-bottom: 20px;
+}
+
+.div-steps {
+    padding-left: 198px;
+    padding-right: 98px;
+    display: flex;
+    font-size: 40px;
+}
+
+.div-step2 {
+    padding-left: 98px;
+    padding-right: 98px;
+    display: flex;
+    font-size: 40px;
+    gap: 130px;
+    margin-bottom: 100px;
+
+
+    position: absolute;
+    top: 748px;
+}
+
+.screen1 {
+    margin-left: auto;
+    width: auto;
+    height: 289px;
+}
+
+ul {
+    width: 570px;
+}
+
+.li-d-st2 {
+    margin-bottom: auto;
+}
+
+.hand3 {
+    margin-left: 1085px;
+    position: absolute;
+    top: 580px;
+}
+
+.line_st1_st2 {
+    position: absolute;
+    top: 504px;
+}
+
+.line1 {
+    position: absolute;
+    top: 143px;
+}
+
+.step1 {
+    position: absolute;
+    top: 259px;
+}
+
+.step3 {
+    position: absolute;
+    top: 1237px;
+}
+
+.line3 {
+    position: absolute;
+    top: 1082px;
+    margin-left: 292px;
+}
+
+.ball1 {
+    position: absolute;
+    top: 549px;
+    margin-left: 60px;
+}
+
+.ball2 {
+    position: absolute;
+    top: 801px;
+    margin-left: 1166px;
+}
+
+button.button-my {
+    -webkit-text-fill-color: white;
+    background-color: #7663C8;
+    font: 25px "Geist";
+    padding: 20px 100px 20px 100px;
+    border-radius: 20px;
+    margin-bottom: 0px;
+}
+
+.div-button {
+    position: absolute;
+    bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    right: 0;
+    left: 0;
+    text-align: center;
+}

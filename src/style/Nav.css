@@ -1,0 +1,39 @@
+
+#nav-p {
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row; 
+    width: 1366px;
+    height: auto;
+  }
+  
+  .nav-ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 1366px;
+    height: 88px;
+  }
+
+  li-3 {
+    margin-left: auto;
+  }
+
+  .nav-top {
+    display: flex;
+  }
+
+  .box {
+    display: flex;
+  }
+  .push {
+    margin-left: auto;
+  }
+
+
+ .li-line {
+    display: inline-block;
+    /* margin-left: 20px; */
+ }
